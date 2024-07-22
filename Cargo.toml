@@ -1,0 +1,8 @@
+[package]
+name = "migrations"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.9", features = ["derive"] }
+postgres = "0.19.7"
