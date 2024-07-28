@@ -1,6 +1,7 @@
 [package]
-name = "migrations"
-version = "0.1.0"
+name = "based"
+authors = ["Matias Yocca <matias@yocca.dev>"]
+version = "0.0.1"
 edition = "2021"
 
 [dependencies]
