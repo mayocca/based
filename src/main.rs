@@ -1,5 +1,4 @@
 mod cli;
-mod core;
 mod driver;
 
 use clap::Parser;
